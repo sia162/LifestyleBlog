@@ -33,10 +33,6 @@ html{
     
 }
 
-/* .items{
-    border: 1px solid;
-    background-color: aquamarine ;
-} */
 
 #navbar ul{
     display: flex;
@@ -60,8 +56,9 @@ html{
     padding: 1px 33px;
     font-size: 1.2rem;
     font-family: 'Raleway', sans-serif;
-    animation-name: linkline;
-    animation-duration: 2s; 
+    /* animation-name: linkline; */
+    animation-duration: 2s;
+    color: black;
 }
 
 
@@ -80,9 +77,8 @@ html{
 }
 
 #logo{
-    font-family: 'Seaweed Script', cursive;
-    font-family: 'Crimson Foam', sans-serif;                            
-    font-size: 3rem;
+    font-family: 'Fuggles', cursive;
+    font-size: 2rem;
 }
 
 #logo a{
